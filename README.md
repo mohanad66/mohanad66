@@ -9,7 +9,7 @@
 - 📈 220+ contributions in the last year - I love coding every day!
 
 ### 🔗 Connect with me:
-- [Portfolio](https://stately-babka-6879d1.netlify.app/ )
+- [Portfolio](https://friendly-cuchufli-d9f5ad.netlify.app/)
 - [LinkedIn](https://www.linkedin.com/in/mohanad-mahmoud-fathy-mohammed-6086b1254/ )
 - [WhatsApp](https://wa.link/mn8hwl )
 
