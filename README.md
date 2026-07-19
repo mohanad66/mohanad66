@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mohanad Mahmoud 👋</h1>
+[<h1 align="center">Hi, I'm Mohanad Mahmoud 👋</h1>
 <h3 align="center">Full-Stack Developer | Django & React Enthusiast</h3>
 
 <p align="center">
@@ -46,7 +46,6 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=mohanad66&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohanad66&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohanad66&theme=tokyonight&hide_border=true" />
 </p>
@@ -72,3 +71,4 @@
 <p align="center">
   <em>"Turning complex problems into elegant digital solutions."</em>
 </p>
+](https://camo.githubusercontent.com/bf6860329693f451214a9e11781642d09dbfff85c8c637d4bcbc7918d23a08b2/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6d6f68616e616436362673686f775f69636f6e733d74727565267468656d653d746f6b796f6e6967687426686964655f626f726465723d74727565)
