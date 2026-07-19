@@ -15,36 +15,36 @@
   <tr>
     <th align="left">Languages</th>
     <td>
-      <a href="https://mozilla.org" target="_blank" rel="noreferrer">
-        <img src="https://githubusercontent.com" alt="javascript" width="40" height="40"/>
+      <a href="https://mozilla.org">
+        <img src="https://shields.io" alt="JavaScript" />
       </a>
-      <a href="https://python.org" target="_blank" rel="noreferrer">
-        <img src="https://githubusercontent.com" alt="python" width="40" height="40"/>
+      <a href="https://python.org">
+        <img src="https://shields.io" alt="Python" />
       </a>
-      <a href="https://w3.org" target="_blank" rel="noreferrer">
-        <img src="https://githubusercontent.com" alt="html5" width="40" height="40"/>
+      <a href="https://w3.org">
+        <img src="https://shields.io" alt="HTML5" />
       </a>
-      <a href="https://w3schools.com" target="_blank" rel="noreferrer">
-        <img src="https://githubusercontent.com" alt="css3" width="40" height="40"/>
+      <a href="https://w3schools.com">
+        <img src="https://shields.io" alt="CSS3" />
       </a>
     </td>
   </tr>
   <tr>
     <th align="left">Frameworks</th>
     <td>
-      <a href="https://djangoproject.com" target="_blank" rel="noreferrer">
-        <img src="https://githubusercontent.com" alt="django" width="40" height="40"/>
+      <a href="https://djangoproject.com">
+        <img src="https://shields.io" alt="Django" />
       </a>
-      <a href="https://reactjs.org" target="_blank" rel="noreferrer">
-        <img src="https://githubusercontent.com" alt="react" width="40" height="40"/>
+      <a href="https://reactjs.org">
+        <img src="https://shields.io" alt="React" />
       </a>
     </td>
   </tr>
   <tr>
     <th align="left">Database</th>
     <td>
-      <a href="https://postgresql.org" target="_blank" rel="noreferrer">
-        <img src="https://githubusercontent.com" alt="postgresql" width="40" height="40"/>
+      <a href="https://postgresql.org">
+        <img src="https://shields.io" alt="PostgreSQL" />
       </a>
     </td>
   </tr>
