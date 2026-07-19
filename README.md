@@ -15,23 +15,37 @@
   <tr>
     <th align="left">Languages</th>
     <td>
-      <img src="https://shields.io" alt="Python" />
-      <img src="https://shields.io" alt="JavaScript" />
-      <img src="https://shields.io" alt="HTML5" />
-      <img src="https://shields.io" alt="CSS3" />
+      <a href="https://mozilla.org" target="_blank" rel="noreferrer">
+        <img src="https://githubusercontent.com" alt="javascript" width="40" height="40"/>
+      </a>
+      <a href="https://python.org" target="_blank" rel="noreferrer">
+        <img src="https://githubusercontent.com" alt="python" width="40" height="40"/>
+      </a>
+      <a href="https://w3.org" target="_blank" rel="noreferrer">
+        <img src="https://githubusercontent.com" alt="html5" width="40" height="40"/>
+      </a>
+      <a href="https://w3schools.com" target="_blank" rel="noreferrer">
+        <img src="https://githubusercontent.com" alt="css3" width="40" height="40"/>
+      </a>
     </td>
   </tr>
   <tr>
     <th align="left">Frameworks</th>
     <td>
-      <img src="https://shields.io" alt="Django" />
-      <img src="https://shields.io" alt="React" />
+      <a href="https://djangoproject.com" target="_blank" rel="noreferrer">
+        <img src="https://githubusercontent.com" alt="django" width="40" height="40"/>
+      </a>
+      <a href="https://reactjs.org" target="_blank" rel="noreferrer">
+        <img src="https://githubusercontent.com" alt="react" width="40" height="40"/>
+      </a>
     </td>
   </tr>
   <tr>
     <th align="left">Database</th>
     <td>
-      <img src="https://shields.io" alt="PostgreSQL" />
+      <a href="https://postgresql.org" target="_blank" rel="noreferrer">
+        <img src="https://githubusercontent.com" alt="postgresql" width="40" height="40"/>
+      </a>
     </td>
   </tr>
 </table>
@@ -42,9 +56,9 @@
 
 Let's build something amazing together! Click below to visit my external networks:
 
-[![Portfolio](https://shields.io)](https://mohanad-portfolio-vert.vercel.app/)
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/%D9%85%D9%87%D9%86%D8%AF-%D9%85%D8%AD%D9%85%D9%88%D8%AF-%D9%81%D8%AA%D8%AD%D9%8A-%D9%85%D8%AD%D9%85%D8%AF-6086b1254/)
-[![WhatsApp](https://shields.io)](https://wa.link/mn8hwl)
+[![Portfolio](https://shields.io)](https://vercel.app)
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![WhatsApp](https://shields.io)](https://wa.link)
 
 ---
 
