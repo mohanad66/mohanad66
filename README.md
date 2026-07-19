@@ -12,15 +12,8 @@
 ### 🛠️ Tech Stack & Tools
 
 **Languages & Frameworks:**
-<p align="left">
-  <a href="https://mozilla.org"><img src="https://skillicons.dev" alt="JavaScript" /></a>
-  <a href="https://python.org"><img src="https://skillicons.dev" alt="Python" /></a>
-  <a href="https://w3.org"><img src="https://skillicons.dev" alt="HTML5" /></a>
-  <a href="https://w3schools.com"><img src="https://skillicons.dev" alt="CSS3" /></a>
-  <a href="https://djangoproject.com"><img src="https://skillicons.dev" alt="Django" /></a>
-  <a href="https://reactjs.org"><img src="https://skillicons.dev" alt="React" /></a>
-  <a href="https://postgresql.org"><img src="https://skillicons.dev" alt="PostgreSQL" /></a>
-</p>
+
+[![JavaScript](https://skillicons.dev)](https://mozilla.org) [![Python](https://skillicons.dev)](https://python.org) [![HTML5](https://skillicons.dev)](https://w3.org) [![CSS3](https://skillicons.dev)](https://w3schools.com) [![Django](https://skillicons.dev)](https://djangoproject.com) [![React](https://skillicons.dev)](https://reactjs.org) [![PostgreSQL](https://skillicons.dev)](https://postgresql.org)
 
 ---
 
@@ -28,11 +21,7 @@
 
 Let's build something amazing together! Click below to visit my external networks:
 
-<p align="left">
-  <a href="https://vercel.app"><img src="https://shields.io" alt="Portfolio" /></a>
-  <a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn" /></a>
-  <a href="https://wa.link"><img src="https://shields.io" alt="WhatsApp" /></a>
-</p>
+[![Portfolio](https://shields.io)](https://vercel.app) [![LinkedIn](https://shields.io)](https://linkedin.com) [![WhatsApp](https://shields.io)](https://wa.link)
 
 ---
 
