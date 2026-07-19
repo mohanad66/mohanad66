@@ -9,9 +9,9 @@
 - 📈 220+ contributions in the last year - I love coding every day!
 
 ### 🔗 Connect with me:
-- [Portfolio](https://mohanad-portfolio-vert.vercel.app/)
-- [LinkedIn](https://www.linkedin.com/in/%D9%85%D9%87%D9%86%D8%AF-%D9%85%D8%AD%D9%85%D9%88%D8%AF-%D9%81%D8%AA%D8%AD%D9%8A-%D9%85%D8%AD%D9%85%D8%AF-6086b1254/edit/intro/)
-- [WhatsApp](https://wa.link/mn8hwl )
+- [Portfolio](https://mohanad-portfolio-vert.vercel.app/){:target="_blank"}
+- [LinkedIn](https://www.linkedin.com/in/%D9%85%D9%87%D9%86%D8%AF-%D9%85%D8%AD%D9%85%D9%88%D8%AF-%D9%81%D8%AA%D8%AD%D9%8A-%D9%85%D8%AD%D9%85%D8%AF-6086b1254/edit/intro/){:target="_blank"}
+- [WhatsApp](https://wa.link/mn8hwl ){:target="_blank"}
 
 ---
 *"Turning complex problems into elegant digital solutions."*
