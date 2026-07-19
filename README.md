@@ -10,7 +10,7 @@
 
 ### 🔗 Connect with me:
 - [Portfolio](https://mohanad-portfolio-vert.vercel.app/)
-- [LinkedIn](https://www.linkedin.com/in/mohanad-mahmoud-fathy-mohammed-6086b1254/ )
+- [LinkedIn](https://www.linkedin.com/in/%D9%85%D9%87%D9%86%D8%AF-%D9%85%D8%AD%D9%85%D9%88%D8%AF-%D9%81%D8%AA%D8%AD%D9%8A-%D9%85%D8%AD%D9%85%D8%AF-6086b1254/edit/intro/)
 - [WhatsApp](https://wa.link/mn8hwl )
 
 ---
